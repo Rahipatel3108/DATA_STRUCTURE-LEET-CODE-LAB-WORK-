@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define MAX 100
+#define MAX 100 
 
 void traversal(int arr[], int size) {
     printf("\nArray Elements: ");
